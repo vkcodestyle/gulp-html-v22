@@ -6,6 +6,7 @@ ___
 - #### Установить зависимости<code>npm i или (install)</code>
 - #### Режим разработки <code>npm run dev</code>
 - #### Режим сборки <code>npm run build</code>
+____
 
 Error: Cannot find module 'webp-converter/cwebp'
 
