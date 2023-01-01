@@ -10,4 +10,4 @@ ____
 
 Error: Cannot find module 'webp-converter/cwebp'
 
-`&nbsp;npm install webp-converter@2.2.3 -D или (--save-dev)&nbsp;`
+<code>&nbsp;npm install webp-converter@2.2.3 -D или (--save-dev)&nbsp;</code>
