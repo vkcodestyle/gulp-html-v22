@@ -1,7 +1,7 @@
 ### 🛠️ Установка
 ___
 
-- Скачать: <code>git clone "https://"</code>
+- Скачать: <code>git clone "https://github.com/vkcodestyle/gulp-html-v22.git"</code>
 - Перейти в папку: <code>cd gulp-html-v22</code>
 - Установить зависимости<code>npm i или (install)</code>
 - Режим разработки <code>npm run dev</code>
