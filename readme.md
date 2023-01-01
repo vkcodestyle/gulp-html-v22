@@ -1,13 +1,13 @@
 ### 🛠️ Установка
 ___
 
-- Скачать: <code>git clone "https://github.com/vkcodestyle/gulp-html-v22.git"</code>
-- Перейти в папку: <code>cd gulp-html-v22</code>
-- Установить зависимости<code>npm i или (install)</code>
-- Режим разработки <code>npm run dev</code>
-- Режим сборки <code>npm run build</code>
+- Скачать: `git clone "https://github.com/vkcodestyle/gulp-html-v22.git"`
+- Перейти в папку: `cd gulp-html-v22`
+- Установить зависимости `npm i или (install)`
+- Режим разработки `npm run dev`
+- Режим сборки `npm run build`
 ____
 
 Error: Cannot find module 'webp-converter/cwebp'
 
-<code>&nbsp;npm install webp-converter@2.2.3 -D или (--save-dev)&nbsp;</code>
+`&nbsp;npm install webp-converter@2.2.3 -D или (--save-dev)&nbsp;`
